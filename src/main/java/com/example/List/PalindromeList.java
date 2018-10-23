@@ -2,6 +2,11 @@ package com.example.List;
 
 //判断链表是否是回文字符串
 
+/**
+ * 单链表 使用前面一半进行反转 和后面的进行比较 p以及p2
+ * 双向链表则是前面一个指针 后面一个指针 进行判断
+ */
+
 public class PalindromeList {
     public static void main(String[] args){
 
